@@ -1,0 +1,16 @@
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\bin\Debug\TicTacToeMVVM.exe.config
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\bin\Debug\TicTacToeMVVM.exe
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\bin\Debug\TicTacToeMVVM.pdb
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\TicTacToeMVVM.csprojAssemblyReference.cache
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\App.g.cs
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\TicTacToeMVVM_MarkupCompile.cache
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\TicTacToeMVVM_MarkupCompile.lref
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\MainWindow.baml
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\TicTacToeMVVM.g.resources
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\TicTacToeMVVM.Properties.Resources.resources
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\TicTacToeMVVM.csproj.GenerateResource.cache
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\TicTacToeMVVM.csproj.CoreCompileInputs.cache
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\TicTacToeMVVM.exe
+C:\Users\JonasRasmussen\source\repos\TicTacToeMVVM\TicTacToeMVVM\obj\Debug\TicTacToeMVVM.pdb
